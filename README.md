@@ -1,6 +1,6 @@
 Proyecto Integrador Gama
 
-Colaboradores
+COLABORADORES
 
 Claudine Meyer 
 
