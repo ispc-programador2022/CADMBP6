@@ -12,4 +12,5 @@ Eric Samuel Barrionuevo
 
 Franco Dario Peralta Wrona
 
-Walter HUgo Diaz
+Walter Hugo Diaz
+
